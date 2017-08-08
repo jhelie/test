@@ -40,7 +40,7 @@ This script calculates the evolution of proteins clustering status. It can produ
 * matplotlib
 ### Examples
 
-![2D](./doc/clusterProt2D.png) <!-- .element height="50%" width="50%" -->
+![2D](./doc/clusterProt2D.png) <!-- .element height="10%" width="10%" -->
 
 ```bash
 clusterProt -f file.gro -x file.xtc --leaflets
