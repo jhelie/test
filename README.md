@@ -17,11 +17,11 @@
   - [Examples](#examples)
   - [License](#license)
 - [**How it works**](#notes)
-  - [Bilayer leaflets](#identifying-bilayer-leaflets)
-  - [Flip-flopping lipids](#dealing-with-flip-flopping-lipids)
-  - ["Protein" particles](#specifying-"protein"-particles)
-  - [Transmembrane clusters](#detecting-transmembrane-clusters)
-  - [Visualisation](#visualizing-results)
+  - [Bilayer leaflets](#bilayer-leaflets)
+  - [Flip-flopping lipids](#flip-flopping-lipids)
+  - ["Protein" particles](#"protein"-particles)
+  - [Transmembrane clusters](#transmembrane-clusters)
+  - [Visualisation](#visualisation)
 - [**Troubleshooting**](#troubleshooting)
 
 ## What it does
@@ -52,18 +52,11 @@ clusterProt -f file.gro -x file.xtc --leaflets
 Free for... please cite...
 
 ## How it works
-
-### Identifying bilayer leaflets
-
-### Dealing with flip-flopping lipids
-
-### Specifying "protein" particles
-
-### Detecting transmembrane clusters
-
-### Specifying size groups
-
-### Visualizing results
+### Bilayer leaflets
+### Flip-flopping lipids
+### "Protein" particles
+### Transmembrane clusters
+### Visualisations
 
 
 ## Troubleshooting
