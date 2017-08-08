@@ -27,11 +27,11 @@
 ## What it does
 This script calculates the evolution of proteins clustering status. It can produce 3 types of output. Inputs = topology gromacs trajectory.
 
-## population distribution
-## intra-cluster interactions
-## cluster composition statistics
-## cluster size evolution
-## cluster visualisation
+### population distribution
+### intra-cluster interactions
+### cluster composition statistics
+### cluster size evolution
+### cluster visualisation
 
 ## How to use it
 
