@@ -55,7 +55,7 @@ clusterProt -f file.gro -x file.xtc --leaflets
 Free for... please cite...
 
 ## How it works
-#-----
+#==
 
 ### Identifying bilayer leaflets
 
