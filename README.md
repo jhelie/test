@@ -1,5 +1,5 @@
-<h1 align="center">clusterProt</h1>
-<p align="center">A Python script to analyze clustering of membrane proteins.</p>
+<h1 b align="center">clusterProt</b></h1>
+<align="center">A Python script to analyze clustering of membrane proteins.
 <h1 align="center">
   <img src="images/high_def_all4.png" alt="clusterProt" />
 </h1>
