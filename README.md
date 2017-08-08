@@ -7,34 +7,29 @@ A Python script to analyze clustering of membrane proteins.
 
 ## Table of content
 
-- [**Description**](#description)
-  - [Inputs](#inputs)
-  - [Outputs](#outputs)  
-- [How to use it](#how-to-use-it)
+- [**What it does**](#description)
+  - [population distribution](#population-distribution)
+  - [protein-protein interactions](#outputs)  
+- [**How to use it**](#how-to-use-it)
   - [Requirements](#requirements)
   - [Examples](#examples)
   - [License](#license)
-- [How it works](#notes)
+- [**How it works**](#notes)
   - [Bilayer leaflets](#identifying-bilayer-leaflets)
   - [Flip-flopping lipids](#dealing-with-flip-flopping-lipids)
   - ["Protein" particles](#specifying-"protein"-particles)
   - [Transmembrane clusters](#detecting-transmembrane-clusters)
   - [Visualisation](#visualizing-results)
-- [Troubleshooting](#troubleshooting)
+- [**Troubleshooting**](#troubleshooting)
 
 ## What it does
-This script calculates the evolution of proteins clustering status. It can produce 3 types of output:
+This script calculates the evolution of proteins clustering status. It can produce 3 types of output. Inputs = topology gromacs trajectory.
 
-### Inputs
-topology gromacs trajectory
-
-### Outputs
-1. snapshot statistics
-2. protein interactions
-3. cluster composition
-4. cluster sizes
-5. cluster groups
-6. VMD
+## population distribution
+## intra-cluster interactions
+## cluster composition statistics
+## cluster size evolution
+## visualisation
 
 ## How to use it
 
