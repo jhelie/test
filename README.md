@@ -1,4 +1,4 @@
-# clusterProt
+<h1 align="center">clusterProt</h1>
 <h1 align="center">
   <img src="images/high_def_all4.png" alt="clusterProt" />
 </h1>
