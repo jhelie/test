@@ -7,11 +7,11 @@
 ## Table of content
 
 - [**What it does**](#description)
-  - [population distribution](#population-distribution)
-  - [intra-cluster interactions](#intra-cluster-interactions)  
-  - [cluster composition statistics](#cluster-composition-statistics)  
-  - [cluster size evolution](#cluster-size-evolution)  
-  - [cluster visualisation](#cluster-visualisation)  
+  - [Protein population distribution](#pprotein-opulation-distribution)
+  - [Intra-cluster interactions](#intra-cluster-interactions)  
+  - [Cluster composition statistics](#cluster-composition-statistics)  
+  - [Cluster size evolution](#cluster-size-evolution)  
+  - [Cluster visualisation](#cluster-visualisation)  
 - [**How to use it**](#how-to-use-it)
   - [Requirements](#requirements)
   - [Examples](#examples)
@@ -26,28 +26,23 @@
 
 ## What it does
 This script calculates the evolution of proteins clustering status. It can produce 3 types of output. Inputs = topology gromacs trajectory.
-
-### population distribution
-### intra-cluster interactions
-### cluster composition statistics
-### cluster size evolution
-### cluster visualisation
+### Protein population distribution
+### Intra-cluster interactions
+### Cluster composition statistics
+### Cluster size evolution
+### Cluster visualisation
 
 ## How to use it
-
 ### Requirements
 * networkX
 * sklearn
 * MDAnalysis
 * matplotlib
-
 ### Examples
 ![2D](./doc/clusterProt2D.png)
- 
 ```bash
 clusterProt -f file.gro -x file.xtc --leaflets
 ```
-
 ### License
 Free for... please cite...
 
@@ -57,7 +52,6 @@ Free for... please cite...
 ### "Protein" particles
 ### Transmembrane clusters
 ### Visualisations
-
 
 ## Troubleshooting
 
