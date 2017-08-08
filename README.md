@@ -1,4 +1,6 @@
-Add membrane file?
+<h1 align="center">
+  <img src="images/high_def_all4.png" alt="clusterProt" />
+</h1>
 
 # clusterProt
 A Python script to analyze clustering of membrane proteins.
