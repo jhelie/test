@@ -9,7 +9,10 @@ A Python script to analyze clustering of membrane proteins.
 
 - [**What it does**](#description)
   - [population distribution](#population-distribution)
-  - [protein-protein interactions](#outputs)  
+  - [intra-cluster interactions](#intra-cluster-interactions)  
+  - [cluster composition statistics](#cluster-composition-statistics)  
+  - [cluster size evolution](#cluster-size-evolution)  
+  - [cluster visualisation](#cluster-visualisation)  
 - [**How to use it**](#how-to-use-it)
   - [Requirements](#requirements)
   - [Examples](#examples)
@@ -29,7 +32,7 @@ This script calculates the evolution of proteins clustering status. It can produ
 ## intra-cluster interactions
 ## cluster composition statistics
 ## cluster size evolution
-## visualisation
+## cluster visualisation
 
 ## How to use it
 
