@@ -4,8 +4,6 @@
   <img src="images/high_def_all4.png" alt="clusterProt" />
 </h1>
 
-A Python script to analyze clustering of membrane proteins.
-
 ## Table of content
 
 - [**What it does**](#description)
