@@ -7,7 +7,7 @@ A Python script to analyze clustering of membrane proteins.
 
 ## Table of content
 
-- [Description](#description)
+- [**Description**](#description)
   - [Inputs](#inputs)
   - [Outputs](#outputs)  
 - [How to use it](#how-to-use-it)
@@ -22,7 +22,7 @@ A Python script to analyze clustering of membrane proteins.
   - [Visualisation](#visualizing-results)
 - [Troubleshooting](#troubleshooting)
 
-## Description
+## What it does
 This script calculates the evolution of proteins clustering status. It can produce 3 types of output:
 
 ### Inputs
@@ -55,7 +55,6 @@ clusterProt -f file.gro -x file.xtc --leaflets
 Free for... please cite...
 
 ## How it works
-#==
 
 ### Identifying bilayer leaflets
 
